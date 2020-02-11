@@ -1,11 +1,7 @@
-.background{ 
-
-    background:url("images/17340.jpg") ;
-    width: 100%;
-    /* min-height: 300px; */
-    height: 100%;
+html { 
+    background: url(images/17340.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
-    background-repeat: no-repeat;
-    background: url("panda.jpg");
-    display: inline-block;
-}
+  }
