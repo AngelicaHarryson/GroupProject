@@ -1,11 +1,18 @@
-html { 
+body { 
     background: url(images/17340.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    margin: 0px 30% 0px 30% ;
   }
+
 p{
     font-family: Arial;
+    color: white;
+}
+
+h1{
+    font-family: Georgia;
     color: white;
 }
