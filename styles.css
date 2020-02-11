@@ -35,12 +35,18 @@ a {
     background-color: #111; /* Black */
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 20px;
+
+    font-size:2em;
   }
 
 .sidenav a {
-    padding: 6px 8px 6px 16px;
+    padding: 10px 8px 6px 16px;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 17px;
     color: #818181;
     display: block;
+  }
+
+  .inner{
+    margin-top:100px; 
   }
