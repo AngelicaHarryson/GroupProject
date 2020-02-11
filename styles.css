@@ -17,6 +17,9 @@ h1{
     color: white;
 }
 
+a {
+  color:yellow; 
+}
 
 /* The sidebar menu */
 .sidenav {
