@@ -20,6 +20,9 @@ a{
     color: yellow;
 }
 
+a {
+  color:yellow; 
+}
 
 /* The sidebar menu */
 .sidenav {
