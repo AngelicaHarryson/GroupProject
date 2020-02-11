@@ -9,3 +9,8 @@
     background: url("panda.jpg");
     display: inline-block;
 }
+
+p{
+    font-family: Arial;
+    color: Black;
+}
