@@ -16,6 +16,9 @@ h1{
     font-family: Georgia;
     color: white;
 }
+a{
+    color: yellow;
+}
 
 
 /* The sidebar menu */
